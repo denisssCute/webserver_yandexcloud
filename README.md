@@ -1,4 +1,4 @@
-# WebWerver YandexCloud
+# WebServer YandexCloud
 
 Простой веб-сервер созданный с помощью Terraform на платформе Yandex Cloud. Который позволяет выводить HTML-файлы.
 Для запуска сервера необходим платёжный аккаунт.
